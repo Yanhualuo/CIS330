@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/chip">
+        <file>images/chip.png</file>
+        <file>images/chip100.png</file>
+        <file>images/questionMark.png</file>
+    </qresource>
+</RCC>
